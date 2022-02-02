@@ -1,0 +1,28 @@
+body {
+    background-color: lightgoldenrodyellow;
+    color:darkslategray;
+}
+
+input {
+    background-color: lightseagreen;
+    font-size: 15px;
+}
+
+#zaloguj {
+    background-color: lightslategrey;
+    font-size: 15px;
+}
+
+#teksty {
+    background-color: rosybrown;
+    width: 800px;
+    height: 600px;
+    float: right;
+}
+
+#menu {
+    background-color: royalblue;
+    font-size: 20px;
+    width: 1630px;
+    height: 50px;
+}
